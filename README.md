@@ -1,4 +1,4 @@
-KAZEN
+KAIZEN
 
 machine learning pipeline designed to detect asset plagiarism in nft collections. it breaks the sibling paradox by accurately identifying manipulated artwork without falsely flagging legitimate assets from the same collection. uses siglip 2 and dinov2 for semantic and structural feature extraction.
 
