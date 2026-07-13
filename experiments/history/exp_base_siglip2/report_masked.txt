@@ -1,0 +1,12 @@
+--- Experiment 2: SigLIP2 (Masked) ---
+ AUROC:               0.579255
+ Equal Error Rate:    0.428571
+ Optimal Threshold:   0.913064
+ F1 Score:            0.571429
+ MCC:                 0.142857
+ Precision:           0.571429
+ Recall:              0.571429
+ True Positives : 3620
+ True Negatives : 3620
+ False Positives: 2715
+ False Negatives: 2715

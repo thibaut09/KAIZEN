@@ -1,0 +1,12 @@
+--- Experiment 1: DINOv2 (Masked) ---
+ AUROC:               0.118021
+ Equal Error Rate:    0.815312
+ Optimal Threshold:   0.849862
+ F1 Score:            0.184545
+ MCC:                 -0.630781
+ Precision:           0.184560
+ Recall:              0.184530
+ True Positives : 1169
+ True Negatives : 1170
+ False Positives: 5165
+ False Negatives: 5166

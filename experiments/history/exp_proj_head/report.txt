@@ -1,0 +1,12 @@
+--- Experiment 4: Projection Head (Vanilla) ---
+ AUROC:               0.986252
+ Equal Error Rate:    0.056827
+ Optimal Threshold:   0.791663
+ F1 Score:            0.943089
+ MCC:                 0.886188
+ Precision:           0.943164
+ Recall:              0.943015
+ True Positives : 5974
+ True Negatives : 5975
+ False Positives: 360
+ False Negatives: 361

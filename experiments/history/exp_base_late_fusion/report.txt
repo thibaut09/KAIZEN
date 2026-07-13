@@ -1,0 +1,12 @@
+--- Experiment 3: Late Fusion Baseline ---
+ AUROC:               0.382192
+ Equal Error Rate:    0.599211
+ Optimal Threshold:   0.761308
+ F1 Score:            0.400789
+ MCC:                 -0.198421
+ Precision:           0.400789
+ Recall:              0.400789
+ True Positives : 2539
+ True Negatives : 2539
+ False Positives: 3796
+ False Negatives: 3796
